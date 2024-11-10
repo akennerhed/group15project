@@ -1,2 +1,3 @@
-# group15project
-Final group project for stat 451
+# Group 15 Final Project
+stat 451
+make pretty
